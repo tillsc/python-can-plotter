@@ -24,6 +24,7 @@ There must be a working can device. Change the configuration in 'plotter.py' to 
 
     ./plotter.py
     
+* Enter `0x123` to plot the ID `0x123`    
 * Enter `list` to see all IDs with values > 0
 * Enter `changed` to plot all IDs which values have changed since startup
 * Enter `all` to plot all IDs
